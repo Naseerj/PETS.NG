@@ -1,0 +1,61 @@
+ .firstdiv {
+  background-image: url(./img/dogs\ first\ image.jpg);
+  background-size: 600px;
+  background-repeat: no-repeat;
+  height: 500px;
+  background-size: cover;
+  background-color: aquamarine;
+  
+}
+ .childdiv {
+  text-align: center; 
+}  
+.parentdiv {
+  display: flex;
+   padding: 100px;
+}
+.parentdiv2{
+   display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr; 
+  padding: 100px;
+}
+.childdiv2{
+    border: 2px solid black;
+    height: 500px;
+    width: 300px;
+}
+.parentdiv3{
+    background-image: url(./img/ketogenic\ diet.jpg);
+    background-color: black;
+    background-repeat: no-repeat;
+     height: 500px; 
+    background-size: cover;
+} 
+.anchor2{
+  text-align: center;
+}
+.footie{
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  
+}
+.icon1{
+  width: 20px;
+}
+a{
+  display: block;
+}
+.icon{
+  width: 20px;
+}
+.icontele{
+  width: 35px;
+}
+.fdiv1{
+  margin-left: 60px;
+}
+.fdiv2{
+  margin-right: 50px;
+}
